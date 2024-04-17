@@ -1,1 +1,1 @@
-# sfml_game
+# Snake Game written in SFML
