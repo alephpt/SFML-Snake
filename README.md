@@ -8,6 +8,6 @@ Objective: Get the Red Dot with the Green Dot.
 
 ----------------
 # Game Mechanics
-Up, Down, Left, Right (can be used simultaneously)
-Points Don't Exist
-There is no way to exit, or win.
+* Up, Down, Left, Right (can be used simultaneously)
+* Points Don't Exist
+* There is no way to exit, or win.
